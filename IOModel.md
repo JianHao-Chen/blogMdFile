@@ -5,7 +5,9 @@ date: 2018-02-12 08:55
 comments: false
 tags: 
 - IO
-categories:	CS基础
+categories:	
+- 基础
+- CS
 ---
 
 ### 同步与异步
