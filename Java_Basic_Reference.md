@@ -10,7 +10,8 @@ categories:
 - Java
 ---
 
-JAVA中对象的引用有四种，它们由高到低依次为: 强引用、软引用、弱引用和虚引用。
+本文介绍JAVA中的四种引用：强引用、软引用、弱引用和虚引用。
+
 <!--more-->
 
 ### 几种引用的介绍
@@ -198,5 +199,5 @@ public class SoftReferenceExample {
     }
 }
 ```
-【小小提示】
+【提示】
 在cacheEmployee()方法里面的cleanCache()方法的调用是不能省略的，一旦省略了，就会导致过多的EmployeeRef对象残留在堆内存，一样会造成outOfMemoryError。

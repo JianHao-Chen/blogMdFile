@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Java NIO 简介"
-date: 2018-04-01 08:55
+date: 2018-08-30 08:55
 comments: false
 tags: 
-- IO
+- NIO
 - Java
 categories:	
-- 基础
-- Java
+- NIO
 ---
 
 ### 介绍NIO
